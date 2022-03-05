@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bill Pulling. I am a professor in the School of IT at Fanshawe College in London, Ontarion, Canada. 
+- 👋 Hi, I’m Bill Pulling. I am a professor in the School of IT at Fanshawe College in London, Ontario, Canada. 
 - 📫 How to reach me ...email me at wpulling@fanshawec.ca
 
 <!---
